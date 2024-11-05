@@ -1,4 +1,4 @@
-package whatAGoodDay;
+package krakenpack;
 	public class yes {
 		public static void main(String[] orgs) {
 
@@ -8,7 +8,7 @@ package whatAGoodDay;
 
 		      System.out.println(result);
 		      System.out.println(inum2);
-		      
+		      //krakenpack로 이동완
 		}
 		
 	}
